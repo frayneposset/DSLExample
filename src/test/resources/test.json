@@ -1,0 +1,11 @@
+{
+  "data": {
+    "devices": {
+      "600": [
+        {
+          "device_id": "[deviceId]"
+        }
+      ]
+    }
+  }
+}
